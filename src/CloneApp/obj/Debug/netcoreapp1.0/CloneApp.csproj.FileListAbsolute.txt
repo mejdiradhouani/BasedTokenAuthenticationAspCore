@@ -1,0 +1,9 @@
+D:\Projects\CloneApp\src\CloneApp\bin\Debug\netcoreapp1.0\CloneApp.deps.json
+D:\Projects\CloneApp\src\CloneApp\bin\Debug\netcoreapp1.0\CloneApp.runtimeconfig.json
+D:\Projects\CloneApp\src\CloneApp\bin\Debug\netcoreapp1.0\CloneApp.runtimeconfig.dev.json
+D:\Projects\CloneApp\src\CloneApp\bin\Debug\netcoreapp1.0\CloneApp.dll
+D:\Projects\CloneApp\src\CloneApp\bin\Debug\netcoreapp1.0\CloneApp.pdb
+D:\Projects\CloneApp\src\CloneApp\obj\Debug\netcoreapp1.0\CloneApp.csprojResolveAssemblyReference.cache
+D:\Projects\CloneApp\src\CloneApp\obj\Debug\netcoreapp1.0\CloneApp.AssemblyInfo.cs
+D:\Projects\CloneApp\src\CloneApp\obj\Debug\netcoreapp1.0\CloneApp.dll
+D:\Projects\CloneApp\src\CloneApp\obj\Debug\netcoreapp1.0\CloneApp.pdb
